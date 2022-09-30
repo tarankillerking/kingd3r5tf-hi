@@ -1,0 +1,31 @@
+.heading{
+    font-size: 25px; 
+    width: 100%;
+    box-shadow: 5px 5px 5px rgba(91, 86, 86, 0.89);
+    margin:0;
+}
+body{
+    background-image: linear-gradient(rgb(0, 2, 3),rgba(0, 0, 0, 0.679),rgb(0, 2, 3));
+
+}
+#tsr{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    color: rgb(157, 149, 149);
+    background-image:linear-gradient(black,black);
+    line-height:3 ;
+
+}
+.mon{
+    font-size: 15px;
+    border-color: aqua;
+color: black;
+}
+canvas{
+    background-image: linear-gradient(rgb(0, 2, 3),rgba(0, 0, 0, 0.679),rgb(0, 2, 3));
+    box-shadow: 10px 10px 10px rgb(13, 12, 12);
+    
+    text-align: center;
+}
